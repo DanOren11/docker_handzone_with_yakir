@@ -1,36 +1,20 @@
-[2026-02-15T12:54:51.612] [DEBUG] default - {
+[2026-02-16T15:28:40.385] [DEBUG] default - {
   message: 'Health check called',
   containerId: '1',
-  timestamp: '2026-02-15T12:54:51.611Z'
+  timestamp: '2026-02-16T15:28:40.385Z'
 }
-[2026-02-15T12:54:51.612] [DEBUG] default - FTOM GET HEALTH Health check called 1
-[2026-02-15T12:54:53.823] [DEBUG] default - {
+[2026-02-16T15:28:43.520] [DEBUG] default - {
   message: 'Health check called',
   containerId: '1',
-  timestamp: '2026-02-15T12:54:53.823Z'
+  timestamp: '2026-02-16T15:28:43.520Z'
 }
-[2026-02-15T12:54:53.824] [DEBUG] default - FTOM GET HEALTH Health check called 1
-[2026-02-15T12:54:57.103] [DEBUG] default - {
+[2026-02-16T15:28:47.583] [DEBUG] default - {
   message: 'Health check called',
   containerId: '2',
-  timestamp: '2026-02-15T12:54:57.102Z'
+  timestamp: '2026-02-16T15:28:47.582Z'
 }
-[2026-02-15T12:54:57.105] [DEBUG] default - FTOM GET HEALTH Health check called 2
-[2026-02-15T12:55:00.295] [DEBUG] default - {
+[2026-02-16T15:28:56.289] [DEBUG] default - {
   message: 'Health check called',
   containerId: '2',
-  timestamp: '2026-02-15T12:55:00.295Z'
+  timestamp: '2026-02-16T15:28:56.289Z'
 }
-[2026-02-15T12:55:00.295] [DEBUG] default - FTOM GET HEALTH Health check called 2
-[2026-02-15T13:16:18.919] [DEBUG] default - {
-  message: 'Health check called',
-  containerId: '2',
-  timestamp: '2026-02-15T13:16:18.919Z'
-}
-[2026-02-15T13:16:18.920] [DEBUG] default - FTOM GET HEALTH Health check called 2
-[2026-02-15T14:15:34.840] [DEBUG] default - {
-  message: 'Health check called',
-  containerId: '2',
-  timestamp: '2026-02-15T14:15:34.840Z'
-}
-[2026-02-15T14:15:34.840] [DEBUG] default - FTOM GET HEALTH Health check called 2

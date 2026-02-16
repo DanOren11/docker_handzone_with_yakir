@@ -8,7 +8,7 @@ log4js.configure({
 
 require("dotenv").config();
 const port = process.env.PORT || 3000;
-const containerId = process.env.CONTAINER_ID || "app1";
+const containerId = process.env.CONTAINER_ID || "unknow";
 app.get("/health", (req, res) => {
 
   const logEntery = {
@@ -26,7 +26,6 @@ app.listen(port, () => {
 
 const logger = log4js.getLogger();
 const getHealth = () => {
-  logger.debug(`FTOM GET HEALTH Health check called ${containerId}`);
   return {
     status: "OK",
     uptime: process.uptime(),
