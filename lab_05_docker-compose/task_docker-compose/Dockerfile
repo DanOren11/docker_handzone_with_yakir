@@ -5,8 +5,6 @@ WORKDIR /usr/src/app
 COPY package.json package-lock.json ./
 RUN npm ci
 
-RUN npm i
-
 EXPOSE 3000
 
 COPY . .
